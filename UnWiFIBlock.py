@@ -47,4 +47,4 @@ def update_hosts_file():
 
 if __name__ == "__main__":
     update_hosts_file()
-    input("Press Enter to exit...")  # Pause to let the user see the result
+    input("Press Enter to exit...") 
